@@ -1,0 +1,15 @@
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\bin\Debug\net6.0\NandM.exe
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\bin\Debug\net6.0\NandM.deps.json
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\bin\Debug\net6.0\NandM.runtimeconfig.json
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\bin\Debug\net6.0\NandM.dll
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\bin\Debug\net6.0\ref\NandM.dll
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\bin\Debug\net6.0\NandM.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\obj\Debug\net6.0\NandM.csproj.AssemblyReference.cache
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\obj\Debug\net6.0\NandM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\obj\Debug\net6.0\NandM.AssemblyInfoInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\obj\Debug\net6.0\NandM.AssemblyInfo.cs
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\obj\Debug\net6.0\NandM.csproj.CoreCompileInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\obj\Debug\net6.0\NandM.dll
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\obj\Debug\net6.0\ref\NandM.dll
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\obj\Debug\net6.0\NandM.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\homework\NandM\NandM\obj\Debug\net6.0\NandM.genruntimeconfig.cache
